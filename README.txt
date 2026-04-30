@@ -2,8 +2,8 @@
   TEAMFLOW - Team Task Manager (Full-Stack App)
 ====================================================
 
-LIVE URL: [Add after Railway deployment]
-GITHUB:   [Add your repo URL]
+LIVE URL: [https://team-task-manager-production-4d25.up.railway.app/]
+GITHUB:   []
 
 ----------------------------------------------------
 OVERVIEW
