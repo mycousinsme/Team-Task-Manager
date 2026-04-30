@@ -3,7 +3,7 @@
 ====================================================
 
 LIVE URL: [https://team-task-manager-production-4d25.up.railway.app/]
-GITHUB:   []
+GITHUB:   [https://github.com/mycousinsme/Team-Task-Manager]
 
 ----------------------------------------------------
 OVERVIEW
